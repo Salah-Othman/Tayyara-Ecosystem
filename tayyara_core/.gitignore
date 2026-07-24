@@ -31,4 +31,6 @@ migrate_working_dir/
 /coverage/
 /tayyara_core/lib/firebase/firebase_options.dart
 /tayyara_core/lib/firebase/firebase_config.dart
+/tayyara_core/lib/firebase
+
 
