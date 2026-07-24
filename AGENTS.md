@@ -13,7 +13,6 @@ tayyara_customer_app/       # End-user ordering (Android/iOS)
 tayyara_driver_app/         # Delivery driver (Android/iOS)
 tayyara_merchant_app/       # Store owner order management (Android/iOS)
 tayyara_admin_dashboard/    # Admin panel (Flutter Web)
-tayyara_core/               # Shared core modules (Firebase, models, theme, widgets)
 ```
 
 ## Tech Stack

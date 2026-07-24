@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tayyara_core/tayyara_core.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
